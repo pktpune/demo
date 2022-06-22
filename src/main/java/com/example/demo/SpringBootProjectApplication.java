@@ -12,6 +12,8 @@ public class SpringBootProjectApplication {
 		SpringApplication.run(SpringBootProjectApplication.class, args);
 
 		System.out.println("Helow World");
+		System.out.println("Helow World");
+		System.out.println("Helow World");
 	}
 
 }
